@@ -1,0 +1,7 @@
+.btn {
+  border: 1px solid #0057b3 !important;
+}
+
+.btn:focus, .btn-primary:focus {
+  box-shadow: none !important;
+}
